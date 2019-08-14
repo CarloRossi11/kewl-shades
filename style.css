@@ -3,3 +3,10 @@
   background-position: top;
   background-size: cover;
 }
+
+.logo-bottom{
+  font-weight: bold;
+  font-style:italic;
+  float: right;
+  padding-right: 8px;
+}
