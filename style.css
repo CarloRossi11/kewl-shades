@@ -10,3 +10,13 @@
   float: right;
   padding-right: 8px;
 }
+
+.nav-link{
+  font-weight: bold;
+  color: white !Important;
+}
+
+.nohands{
+  font-style: italic;
+  font-style: bold;
+}
