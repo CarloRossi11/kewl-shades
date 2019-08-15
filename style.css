@@ -16,7 +16,18 @@
   color: white !Important;
 }
 
+.ctatext{
+  color: white;
+  padding-top: 175px;
+  margin-left: 50px;
+}
+
 .nohands{
   font-style: italic;
   font-style: bold;
+}
+
+.btn-primary{
+  background-color: red !Important;
+  border-color: red !Important;
 }
