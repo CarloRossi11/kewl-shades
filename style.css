@@ -1,3 +1,6 @@
+*{
+  box-sizing: border-box;
+}
 .hero{
   background-image: url("images/hero.jpg");
   background-position: top;
@@ -33,4 +36,15 @@
 .btn-primary{
   background-color: red !Important;
   border-color: red !Important;
+}
+
+.ig-rel{
+  position: relative;
+}
+
+.ig-abs{
+  position: absolute;
+  left: 10px;
+  bottom: 10px;
+  width: 60px;
 }
