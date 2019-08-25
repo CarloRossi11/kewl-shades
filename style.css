@@ -73,3 +73,22 @@
   padding-left: 100px;
   padding-top: 75px;
 }
+
+.featurestitle{
+  padding-left: 100px;
+  padding-bottom: 25px;
+}
+
+.featurelist{
+  background-image: url("images/features-background.jpg");
+  background-size: cover;
+  background-position: center;
+
+  font-size: 150%;
+  padding-left: 60px;
+  padding-top: 25px;
+}
+
+.footer{
+  background-color: black;
+}
