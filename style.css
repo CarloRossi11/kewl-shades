@@ -91,4 +91,32 @@
 
 .footer{
   background-color: black;
+  padding-left: 100px;
+  padding-top: 75px;
+}
+
+.footerbiglinks{
+  font-size: 125%;
+}
+
+.warreturns{
+  font-size: 100% !important;
+  font-weight: lighter;
+}
+
+.footerpics{
+  margin-left: auto;
+  color: grey;
+  font-size: 75%;
+}
+
+.thelastpepper{
+  padding-left: auto;
+  padding-right: auto;
+}
+
+.bottomlinks{
+  font-weight: lighter !important;
+  font-size: 75% !important;
+  color: white !important;
 }
