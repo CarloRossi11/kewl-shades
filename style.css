@@ -83,10 +83,11 @@
   background-image: url("images/features-background.jpg");
   background-size: cover;
   background-position: center;
+  height: 1200px;
 
-  font-size: 150%;
+  font-size: 175%;
   padding-left: 60px;
-  padding-top: 25px;
+  padding-top: 50px;
 }
 
 .footer{
@@ -105,18 +106,28 @@
 }
 
 .footerpics{
-  margin-left: auto;
+  text-align: right;
+  padding-right: 75px;
   color: grey;
   font-size: 75%;
 }
 
-.thelastpepper{
-  padding-left: auto;
-  padding-right: auto;
+.bottom{
+  text-align:center !important;
 }
 
 .bottomlinks{
+  display: inline!important;
+  text-align: center;
   font-weight: lighter !important;
   font-size: 75% !important;
   color: white !important;
+}
+
+.done{
+  color: white;
+  font-weight: lighter;
+  font-size: 75%;
+  padding-left: 20px;
+  padding-right: 20px;
 }
