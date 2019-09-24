@@ -51,6 +51,9 @@
 
 .fys{
   padding-left: 75px;
+  background-color: #fafafa;
+  margin-bottom: 15px;
+  margin-top: 15px;
 }
 
 .dollars{
@@ -59,6 +62,10 @@
 
 .colors{
   margin-top: -1rem !important;
+}
+
+.Red-shades{
+  background-color: #fafafa;
 }
 
 .cond{
@@ -75,8 +82,12 @@
 }
 
 .featurestitle{
+  background-color: #fafafa;
   padding-left: 100px;
   padding-bottom: 25px;
+  padding-top: 25px;
+  margin-bottom: 15px;
+
 }
 
 .featurelist{
