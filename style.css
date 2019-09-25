@@ -142,3 +142,16 @@
   padding-left: 20px;
   padding-right: 20px;
 }
+
+.tagged{
+  text-align: end;
+  background-color: black;
+  color: pink;
+}
+
+ul#menu li {
+  display:inline;
+}
+a:hover {
+  color: grey;
+}
