@@ -147,6 +147,7 @@
   text-align: end;
   background-color: black;
   color: pink;
+  padding-right: 10px;
 }
 
 ul#menu li {
@@ -154,4 +155,27 @@ ul#menu li {
 }
 a:hover {
   color: grey;
+}
+
+.circle {
+  border-radius: 100%;
+  display: inline-block;
+  height: 20px;
+  width: 20px;
+}
+
+.red {
+  background: red;
+}
+
+.green {
+  background: green;
+}
+
+.blue {
+  background: blue;
+}
+
+.black {
+  background: black;
 }
